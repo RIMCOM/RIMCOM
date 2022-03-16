@@ -1,4 +1,4 @@
-*.jolotras.ru
+*jolotras.ru
 moolin.ru
 gorigan.ru
 teroba.ru
