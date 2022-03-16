@@ -195,6 +195,6 @@ designer.decidedly.coffiti.ru
 deliberately.desolate.coffiti.ru
 defensive.den.coffiti.ru
 design.deploy.coffiti.ru
-eumr.site 
+*.eumr.site 
 1000020.xyz 
 smm2021.net 
