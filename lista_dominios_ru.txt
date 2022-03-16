@@ -1,4 +1,4 @@
-jolotras.ru
+*.jolotras.ru
 moolin.ru
 gorigan.ru
 teroba.ru
@@ -134,7 +134,7 @@ zvustro.ru
 lotorda.ru    
 vnestri.ru    
 dortisto.ru
-aaa.tortunas.ru
+*.aaa.tortunas.ru
 coagula.online
 deceived.coagula.online
 december.dense.coagula.online
