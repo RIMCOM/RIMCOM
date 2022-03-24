@@ -1,4 +1,4 @@
-*jolotras.ru
+jolotras.ru
 moolin.ru
 gorigan.ru
 teroba.ru
@@ -198,3 +198,5 @@ design.deploy.coffiti.ru
 *.eumr.site 
 1000020.xyz 
 smm2021.net 
+prueba.es
+prueba.com
